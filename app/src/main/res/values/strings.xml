@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BT Shared Preferences</string>
+    <string name="mvmainbutton_status_label">Set Status</string>
+</resources>
